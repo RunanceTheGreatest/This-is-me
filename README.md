@@ -1,7 +1,5 @@
 # This Is Me Mark Rainier S aguilar
 
-![Profile Image](https://github.com/RunanceTheGreatest)
-
 ## Introduction
 Hello! I am Runance, a passionate developer with a forte in databasing and UI design. I am 21 years old and always eager to learn new things and take on challenges.
 
